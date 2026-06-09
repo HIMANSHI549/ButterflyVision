@@ -124,12 +124,13 @@ python main.py
 ---
 
 ## Results
-```text
-butterfly_segmentation/
-│
-├── sample_results
-
-```
+- iou_diceCoeff.png
+- loss_accuracy.png
+- original_predicted_groundtruth.png
+- original_predicted_groundtruth2.png
+- sample_data.png
+- segmented_image.png
+- segmented_image2.png
 ---
 
 ## Technologies Used
